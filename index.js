@@ -1,4 +1,4 @@
-require('dotenv').config()
+/* require('dotenv').config()
 const express = require('express')
 const https = require('https');
 var fs = require('fs');
@@ -20,4 +20,4 @@ var server = https.createServer(options, app);
 server.listen(port, () => {
   console.log("server starting on port : " + port)
 });
-
+ */
